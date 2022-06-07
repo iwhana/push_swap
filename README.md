@@ -50,15 +50,6 @@ The program takes as an argument the stack a formatted as a list of integers. Th
     4780 operations for 500 numbers
     587  operations for 100 numbers
 
-
-### Sorting 100 integers
-
-![Push Swap in action](images/pushswap100.gif)
-
-### Sorting 250 integers
-
-![Push Swap in action](images/pushswap250.gif)
-
 ## Useful links
 
 * A good [checker](https://github.com/ksnow-be/push_swap_checker) by ksnow-be
